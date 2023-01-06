@@ -15,7 +15,6 @@
 <h3>8. Affecter les rôles aux utilisateurs</h3>
 <img src="./images/mappingRoles.png">
 <h3>9. Avec PostMan :</h3>
-<img src="./images/.png">
 <h4>- Tester l'authentification avec le mot de passe</h4>
 <img src="./images/authMP.png">    
 <h4>- Analyser les contenus des deux JWT Access Token et Refresh Token</h3>
